@@ -1,5 +1,7 @@
 # Configuración Windows Server de 2016 en adelante
 
+![alt text](image.png)
+
 [1.Rastreador de eventos](/Basico/1.Rastreador%20de%20eventos.md)
 
 [2.Convertir versión de evaluación a versión completa](/Basico/2.Convertir%20versión%20de%20evaluación%20a%20versión%20completa.md)
